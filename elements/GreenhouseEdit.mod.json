@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "greenhouse - Kokusai Shingobata K (Nekosis Aftercraft Edit)",
+    "texture": "music_disc_cat-1.png",
+    "description": "Kokusai Shingobata K - edited",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:kokusaikedit"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

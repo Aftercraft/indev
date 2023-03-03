@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "aftercraft_core:hot_iron_billet"
+  },
+  "addition": {
+    "item": "aftercraft_core:sword_template"
+  },
+  "result": {
+    "item": "aftercraft_core:hot_iron_sword_billet"
+  }
+}

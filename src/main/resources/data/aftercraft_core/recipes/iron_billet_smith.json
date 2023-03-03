@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "aftercraft_core:forging_hammer"
+  },
+  "addition": {
+    "item": "aftercraft_core:hot_iron_ingot"
+  },
+  "result": {
+    "item": "aftercraft_core:iron_billet"
+  }
+}

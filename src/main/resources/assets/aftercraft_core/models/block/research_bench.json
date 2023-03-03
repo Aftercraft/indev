@@ -1,0 +1,8 @@
+{
+  "parent": "aftercraft_core:custom/research-bench",
+  "textures": {
+    "all": "aftercraft_core:blocks/research-bench-1.png",
+    "particle": "aftercraft_core:blocks/research-bench-1.png"
+  },
+  "render_type": "solid"
+}

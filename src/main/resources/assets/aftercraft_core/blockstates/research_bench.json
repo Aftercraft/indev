@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "aftercraft_core:block/research_bench"
+    },
+    "facing=east": {
+      "model": "aftercraft_core:block/research_bench",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "aftercraft_core:block/research_bench",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "aftercraft_core:block/research_bench",
+      "y": 270
+    }
+  }
+}

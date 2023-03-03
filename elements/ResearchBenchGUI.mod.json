@@ -1,0 +1,91 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Inventory",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Inventory",
+          "x": 132,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Research",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Research",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 141,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Research",
+          "width": 67,
+          "height": 20,
+          "name": "Research",
+          "x": 222,
+          "y": 89
+        }
+      },
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "Tool Forging",
+          "name": "tool",
+          "x": 195,
+          "y": 42
+        }
+      },
+      {
+        "type": "checkbox",
+        "data": {
+          "text": "Redstone Flux",
+          "name": "flux",
+          "x": 195,
+          "y": 62
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

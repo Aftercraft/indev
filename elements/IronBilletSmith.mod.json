@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:ForgingHammer"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:HotIronIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:IronBillet"
+    },
+    "name": "iron_billet_smith",
+    "namespace": "mod"
+  }
+}

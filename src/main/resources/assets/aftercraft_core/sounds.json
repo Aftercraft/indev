@@ -1,0 +1,12 @@
+{
+  "kokusaikedit": {
+    "category": "record",
+    "subtitle": "subtitles.kokusaikedit",
+    "sounds": [
+      {
+        "name": "aftercraft_core:kokusaik-edit",
+        "stream": true
+      }
+    ]
+  }
+}
